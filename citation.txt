@@ -1,0 +1,6 @@
+@article{REPO078,
+    author = "Zhou, Zhaokun and Zhu, Yuesheng and He, Chao and Wang, Yaowei and Yan, Shuicheng and Tian, Yonghong and Yuan, Li",
+    journal = "arXiv preprint arXiv:2209.15425",
+    title = "{Spikformer: When Spiking Neural Network Meets Transformer}",
+    year = "2022"
+}
